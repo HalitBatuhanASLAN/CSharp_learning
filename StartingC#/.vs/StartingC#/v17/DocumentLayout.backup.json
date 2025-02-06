@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\halit\\Desktop\\Languages\\C#\\StartingC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC43276C-ABBF-4384-A007-8A749238529A}|StartingC#\\StartingC#.csproj|c:\\users\\halit\\desktop\\languages\\c#\\startingc#\\startingc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC43276C-ABBF-4384-A007-8A749238529A}|StartingC#\\StartingC#.csproj|solutionrelative:startingc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\Desktop\\Languages\\C#\\StartingC#\\StartingC#\\Program.cs",
+              "RelativeDocumentMoniker": "StartingC#\\Program.cs",
+              "ToolTip": "C:\\Users\\halit\\Desktop\\Languages\\C#\\StartingC#\\StartingC#\\Program.cs",
+              "RelativeToolTip": "StartingC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:31:30.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
