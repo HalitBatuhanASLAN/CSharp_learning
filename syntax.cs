@@ -5,14 +5,14 @@ namespace basics
 {
     public class Program
     {
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             basicMetod();
             escapeSeq();
             varUsage();
             stringMetods();
 
-        }
+        }*/
 
         private static void stringMetods()
         {
